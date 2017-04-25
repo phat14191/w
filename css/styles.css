@@ -1,0 +1,23 @@
+#ih {
+  display: none;
+}
+
+.clickable:hover {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+#ah {
+  display: none;
+}
+.clickable2:hover {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable2:hover {
+  text-decoration: underline;
